@@ -52,12 +52,10 @@ public class UsualPerson implements Person {
         return country;
     }
 
-    @Override
     public int getAge() {
         return age;
     }
 
-    @Override
     public float getHeight() {
         return height;
     }
